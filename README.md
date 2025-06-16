@@ -37,7 +37,6 @@ POST https://your-deployed-backend-url.com/api/chat/send
 - **Description**: Accepts a message from the frontend and responds with AI-generated output or mock response.
 - **Request Body**:
 
-```json
 {
   "message": "Hello"
 }
@@ -49,6 +48,9 @@ Edit
 {
   "response": "Hi there! How can I help you today?"
 }
+
+
+
 🗂️ Project Structure
 css
 Copy
